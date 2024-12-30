@@ -73,10 +73,7 @@ namespace ConsoleApp1
                         {
                             enBuyuk = (int)o;
                         }
-                        //else if (o < enKucuk)
-                        //{
-                        //    enKucuk = (int)o; kendimi tekrar etmek istememiştim olmadı
-                        //}
+                      
                     }
                     int enKucuk = (int)o;
                     for (int i = 0; i < (int)o; i++)
